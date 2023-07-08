@@ -1,6 +1,17 @@
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-How to cite: ToDo
+How to cite
+
+```BibTeX
+@article{batista2013extracccao,
+  title = {Extraction of Support and Opposition Relationships in Portuguese Political News Headlines},
+  author = {Batista, David Soares},
+  journal = {Linguam{\'a}tica},
+  volume = {15},
+  number = {1},
+  year = {2023}
+}
+```
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
