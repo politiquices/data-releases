@@ -3,13 +3,17 @@
 How to cite
 
 ```BibTeX
-@article{batista2013extracccao,
-  title = {Extraction of Support and Opposition Relationships in Portuguese Political News Headlines},
-  author = {Batista, David Soares},
+@article{Soares Batista_2023, 
+  title={Extracção de Relações de Apoio e Oposição em Títulos de Notícias de Política em Português}, 
+  volume={15}, 
+  url={https://linguamatica.com/index.php/linguamatica/article/view/386}, 
+  DOI={10.21814/lm.15.1.386},
+  number={1}, 
   journal = {Linguam{\'a}tica},
-  volume = {15},
-  number = {1},
-  year = {2023}
+  author={Soares Batista, David}, 
+  year={2023}, 
+  month={Jul.}, 
+  pages={91-101}
 }
 ```
 
